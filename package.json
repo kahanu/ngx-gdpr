@@ -1,0 +1,19 @@
+{
+  "name": "ngx-gdpr",
+  "version": "1.0.0",
+  "description": "GDPR implementation for Angular.",
+  "license": "MIT",
+  "repository": "https://github.com/kahanu/ngx-gdpr",
+  "author": "Kahanu",
+  "maintainers":[
+    "King Wilder"
+  ],
+  "keywords": [
+    "gdpr",
+    "npm",
+    "package",
+    "kahanu",
+    "angular",
+    "cookie consent"
+  ]
+}
